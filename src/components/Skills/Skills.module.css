@@ -4,4 +4,9 @@
 }
 .skills {
     border: 1px solid;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 24px;
+    text-align: center;
 }
