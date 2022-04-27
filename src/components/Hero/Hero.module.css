@@ -1,0 +1,13 @@
+.hero {
+    height: 100vh;
+    background: #a9cdf5;
+}
+
+.text {
+    background: #efe9e9;
+}
+.photo {
+    width: 300px;
+    height: 400px;
+    background: #f5cece;
+}
